@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=BLOCK.SchDoc
+Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=U0_PWR|SchDesignator=U0_PWR|FileName=PWR.SchDoc|SymbolType=Normal|RawFileName=PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=U1_ACCESS|SchDesignator=U1_ACCESS|FileName=ACCESSORY.SchDoc|SymbolType=Normal|RawFileName=ACCESSORY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=U2_MCU|SchDesignator=U2_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=U3_GPS|SchDesignator=U3_GPS|FileName=GPS.SchDoc|SymbolType=Normal|RawFileName=GPS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=U4_FLASH|SchDesignator=U4_FLASH|FileName=FLASH.SchDoc|SymbolType=Normal|RawFileName=FLASH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=DATN.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=DEV_v1\STM32_base.PrjPcb
+Record=SubProject|SourceDocument=DATN.MbsDoc|ProjectPath=DEV_v1\STM32_base.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DATN.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=LoRa_Core\LoRa_Core.PrjPcb
+Record=SubProject|SourceDocument=DATN.MbsDoc|ProjectPath=LoRa_Core\LoRa_Core.PrjPcb
